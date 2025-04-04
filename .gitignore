@@ -5,7 +5,7 @@ mylar/*
 **/tmp/*
 # Documentation and evidences
 evidences/*
-data/*
+#data/*
 unittests/images_to_test/ContinuousFrame_*
 unittests/images_to_test/NoiseReduction*
 unittests/*/*.png
